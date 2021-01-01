@@ -1,0 +1,9 @@
+consolelog\academy\model\TodoItem.class
+consolelog\academy\service\TodoItemService.class
+consolelog\academy\controller\ItemController.class
+consolelog\academy\config\WebConfig.class
+consolelog\academy\controller\HelloController.class
+consolelog\academy\config\WebAppInitializer.class
+consolelog\academy\model\ItemData.class
+consolelog\academy\service\TodoItemServiceImpl.class
+consolelog\academy\util\Attributes.class
